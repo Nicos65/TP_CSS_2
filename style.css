@@ -1,0 +1,30 @@
+.titre{
+    color: red;
+    text-align: center;
+    font-size: 45px;
+}
+.h3{
+    color: blue;
+    font-size: 25px;
+}
+.para{
+    background-color: gray;
+}
+.para2{
+    background-color: pink;
+}
+.stong{
+    color: greenyellow;
+    font-weight:normal;
+}
+.em{
+    color: orange;
+    text-decoration: underline;
+    font-style: normal;
+    font-size: 30px;
+}
+.h3M{
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
